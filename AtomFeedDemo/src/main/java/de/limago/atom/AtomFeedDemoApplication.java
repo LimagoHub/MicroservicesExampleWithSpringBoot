@@ -8,6 +8,7 @@ public class AtomFeedDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AtomFeedDemoApplication.class, args);
+		
 	}
 
 }
